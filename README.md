@@ -9,7 +9,7 @@ So, I began to go deep into it and realised that in a normal color picking exten
 
 A bit more deeper into it and some searches over the web brought me to the idea that our very own AI and ML based algorithms can be helpful here. An algorith such as "KMeans" clustering is a perfect fit for this kind of situation where we dont have any kind of idea for how the colors are going to be distributed within that image.
 
-So, I ahd a background now on how to solve this kinda problem. Now it was time to CODE!!!
+So, I had a background now on how to solve this kinda problem. Now it was time to CODE!!!
 
 So, I started off with :-
   - Anaconda (I wrote the code in a Jupyter notebook)
