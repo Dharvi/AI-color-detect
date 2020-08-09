@@ -14,11 +14,19 @@ So, I ahd a background now on how to solve this kinda problem. Now it was time t
 So, I started off with :-
   - Anaconda (I wrote the code in a Jupyter notebook)
   - Installed OpenCV using Anaconda itself (it was super easy. Believe me)
-  - Other libraries abd packages which I used includes:- SKLearn, Matplotlib, Numpy, Collections, skimage (can be used, although I haven't) and os module.
+  - Other libraries and packages which I used includes:- SKLearn, Matplotlib, Numpy, Collections, skimage (can be used, although I haven't) and os module.
   - Jumped write into the code 
 
 and Results were just wow !!!
 Have a look into the Jupyter Notebook I ahve uploaded and you will see it!
+
+After having a look into it what do you feel could be the use cases of it?
+Well I will share what I feel for example:-
+- Such an algorithm can be used if we want to create a fun website where you could just upload an image and have a look into its color distribution.
+- We can use it in application where we 1000s of images and we wanna look for an image with specific color in it, let's say Blue may be.
+- We can create an image separator feature for our devices which will differentiate images based on colors and collect them in separate places so taht if we wanna look for all images containing blue we can have it separated out.
+- etc. :)
+
 
 
 
