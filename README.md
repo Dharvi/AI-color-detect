@@ -18,7 +18,7 @@ So, I started off with :-
   - Jumped write into the code 
 
 and Results were just wow !!!
-Have a look into the Jupyter Notebook I ahve uploaded and you will see it!
+Have a look into the Jupyter Notebook I have uploaded and you will see it!
 
 After having a look into it what do you feel could be the use cases of it?
 Well I will share what I feel for example:-
